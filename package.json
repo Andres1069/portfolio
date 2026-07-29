@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-raul-gonzalez",
+  "version": "1.0.0",
+  "description": "Portafolio Raul Gonzalez",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
